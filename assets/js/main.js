@@ -1,10 +1,3 @@
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
-// alert("pute")
+const log = "L'utlisateur est connecté à internet !!"
+
+console.log(log)
